@@ -3,9 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.ldub.gerville;
+package com.ldub.gereville;
 
-import com.ldub.gerville.manager.PaysManager;
+import com.ldub.gereville.model.Ville;
+import com.ldub.gereville.model.Pays;
+import com.ldub.gereville.manager.PaysManager;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
